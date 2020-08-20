@@ -1,0 +1,3 @@
+﻿  barrefptcol.cpp
+C:\Users\dolne\source\repos\barrefptcol\barrefptcol\barrefptcol.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  barrefptcol.vcxproj -> C:\Users\dolne\source\repos\barrefptcol\Debug\barrefptcol.exe
